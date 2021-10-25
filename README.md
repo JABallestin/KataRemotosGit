@@ -1,3 +1,3 @@
 # KataRemotosGit
 
-Práctica de repositorio remoto
+# Práctica de repositorio remoto
